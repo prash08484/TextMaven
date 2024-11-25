@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMaven/static/css/main.79d19d76.css",
+    "main.js": "/TextMaven/static/js/main.47bef0da.js",
+    "static/js/453.e7c15f61.chunk.js": "/TextMaven/static/js/453.e7c15f61.chunk.js",
+    "index.html": "/TextMaven/index.html",
+    "main.79d19d76.css.map": "/TextMaven/static/css/main.79d19d76.css.map",
+    "main.47bef0da.js.map": "/TextMaven/static/js/main.47bef0da.js.map",
+    "453.e7c15f61.chunk.js.map": "/TextMaven/static/js/453.e7c15f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.47bef0da.js"
+  ]
+}
